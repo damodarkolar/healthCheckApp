@@ -1,0 +1,12 @@
+.homePageContainer{
+    width: 100%;
+    min-height: 100vh;
+    background: #10101C;
+    display: flex;
+    gap: 1rem;
+    height: 150%;
+    box-sizing: border-box;
+}
+.sideNavBar{
+    height: 100%;
+}
