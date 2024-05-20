@@ -1,0 +1,40 @@
+.headingComponentContainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem 1rem 0;
+    box-sizing: border-box;
+}
+.headingComponentContainer>h2{
+    font-family: Inika;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 41.7px;
+    text-align: left;    
+    color: #fff;
+    text-transform: capitalize;
+}
+.datesComponent{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.selectedDate{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+    text-align: left;
+    color: #6AA7C4;    
+    
+}
+.notSelectedDate{
+    font-family: Inder;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF61;    
+    cursor: pointer;
+}

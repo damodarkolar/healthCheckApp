@@ -10,3 +10,11 @@
 .sideNavBar{
     height: 100%;
 }
+.bodyScanner{
+    height: 100%;
+    width: 25%;
+}
+.ScannerDetails{
+    flex-grow: 1;
+
+}

@@ -1,0 +1,20 @@
+.humanBodyContainer{
+    position: relative;
+}
+.humanBody{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+.humanBodyHeart{
+    position: absolute;
+    right: 0;
+    top: 100px;
+    z-index: 2;
+}
+.loadingContainer{
+    position: absolute;
+    bottom: 0;
+    z-index: 2;
+}
